@@ -14,7 +14,7 @@ Features:
 In Progress:
   - Tweet crawler
   - cron
-  - CSS upgrade, additional browser support (Tested in Chrome)
+  - CSS upgrade, additional browser support (Tested only in Chrome)
 
 Install Directions:
   -  In app.py uncomment CONSUMER_KEY, CONSUMER_SECRET and CALLBACK_URL and 
