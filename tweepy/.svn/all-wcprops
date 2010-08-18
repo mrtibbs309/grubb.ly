@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/18/trunk/%20grubbly/tweepy
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/18/trunk/%20grubbly/tweepy/api.py
+END
+error.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/18/trunk/%20grubbly/tweepy/error.py
+END
+streaming.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/18/trunk/%20grubbly/tweepy/streaming.py
+END
+cursor.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/18/trunk/%20grubbly/tweepy/cursor.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/18/trunk/%20grubbly/tweepy/__init__.py
+END
+parsers.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/18/trunk/%20grubbly/tweepy/parsers.py
+END
+oauth.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/18/trunk/%20grubbly/tweepy/oauth.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/18/trunk/%20grubbly/tweepy/utils.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/18/trunk/%20grubbly/tweepy/auth.py
+END
+cache.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/18/trunk/%20grubbly/tweepy/cache.py
+END
+binder.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/18/trunk/%20grubbly/tweepy/binder.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/18/trunk/%20grubbly/tweepy/models.py
+END

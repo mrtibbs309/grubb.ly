@@ -1,0 +1,21 @@
+<----- grubb.ly 
+         mobile food discovery ----->
+
+A dynamic food truck discovery engine. Provides near real-time, visual 
+    map points of local, twittering food trucks.	 
+
+Features:
+  - Hosted in the Google App Engine
+  - OAuth Twitter integration
+  - @anywhere tweet function
+  - Google Maps integration
+
+
+In Progress:
+  - Tweet crawler
+  - cron
+  - CSS upgrade, additional browser support (Tested in Chrome)
+
+Install Directions:
+  -  In app.py uncomment CONSUMER_KEY, CONSUMER_SECRET and CALLBACK_URL and 
+     replace with your own designated app key, secret and callback.  

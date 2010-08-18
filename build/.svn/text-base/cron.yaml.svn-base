@@ -1,0 +1,4 @@
+cron:
+- description: daily summary job
+  url: /tasks/update
+  schedule: every day 03:00

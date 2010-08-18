@@ -1,0 +1,20 @@
+				</div>
+			</div>
+		</div>
+		</div>
+	</div>
+					
+	<div id="signout" td align="center"> 
+		<a href="#" onClick="tSignOut()">Sign out of Twitter</a> 
+	</div>
+	<div id="footer" td align="left">
+		<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> 
+		<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> 
+		<div id="follow-mrtibbs309"></div> 
+		<a href="http://twitter.com/mrtibbs309"></a> 	
+		<p>build in progress by Andy T.</p>
+	</div>
+</html>
+
+
+<!-- 	   -->
